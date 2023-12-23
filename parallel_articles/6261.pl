@@ -1,0 +1,1 @@
+Krasnopole ( rejon mohylewski )

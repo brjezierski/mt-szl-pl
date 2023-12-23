@@ -1,0 +1,2 @@
+Ratyzbona ( ujednoznacznienie )
+Niemcy :

@@ -1,0 +1,1 @@
+Gmina Wąsosz ( powiat grajewski )

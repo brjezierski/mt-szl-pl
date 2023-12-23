@@ -1,0 +1,1 @@
+Ameryka ( powiat kartuski )

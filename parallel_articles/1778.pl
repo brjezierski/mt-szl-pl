@@ -1,0 +1,1 @@
+Betlejem ( województwo dolnośląskie )

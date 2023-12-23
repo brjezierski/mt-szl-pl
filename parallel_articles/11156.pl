@@ -1,0 +1,1 @@
+Studzianki ( Ochotnica Górna )

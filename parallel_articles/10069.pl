@@ -1,0 +1,1 @@
+Jankowice ( powiat sandomierski )

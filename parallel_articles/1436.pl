@@ -1,0 +1,1 @@
+Wysoki Dwór ( rejon rosieński )

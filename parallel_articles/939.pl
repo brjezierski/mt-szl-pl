@@ -1,0 +1,1 @@
+Adamowice ( województwo opolskie )

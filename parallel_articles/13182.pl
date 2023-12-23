@@ -1,0 +1,1 @@
+Zelgoszcz ( gmina Stryków )

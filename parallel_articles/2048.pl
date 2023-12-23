@@ -1,0 +1,1 @@
+Boratyn ( rejon łucki )

@@ -1,0 +1,1 @@
+Kolnica ( gmina Malanów )

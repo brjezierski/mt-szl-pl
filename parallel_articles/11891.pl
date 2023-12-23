@@ -1,0 +1,4 @@
+Truro ( Kanada )
+Truro ( do 1759 `` Cobequid '' ) – miasto ( `` town '' ) w kanadyjskiej prowincji Nowa Szkocja , ośrodek hrabstwa Colchester , podjednostka podziału statystycznego ( `` census subdivision '' ) .
+Według spisu powszechnego z 2016 obszar miasta to : 34,49 km² , a zamieszkiwało wówczas ten obszar 12 261 osób , cały obszar miejski ( `` population centre '' ) – 22 954 osoby , natomiast aglomerację ( `` census agglomeration '' ) – 45 753 osoby .
+Centralnie w ramach prowincji położona miejscowość , pierwotnie zasiedlona przez ludność francuskojęzyczną ( Akadyjczycy ) nosiła miano `` Cobequid '' , dopiero po ich deportacji i zasiedleniu tego terenu w 1759 przez angielskojęzycznych przybyszów z Nowej Anglii i ulsterskich Szkotów otrzymała nazwę od kornwalijskiego Truro , a w 1875 otrzymała status miasta ( `` town '' ) , z którym związana była przez dziesięciolecia rodzina Stanfieldów .

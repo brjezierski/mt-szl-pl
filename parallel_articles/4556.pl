@@ -1,0 +1,1 @@
+Goszczyn ( ujednoznacznienie )

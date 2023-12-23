@@ -1,0 +1,3 @@
+Suchy Bór ( województwo wielkopolskie )
+Suchy Bór – osada leśna w Polsce położona w województwie wielkopolskim , w powiecie poznańskim , w gminie Pobiedziska .
+W latach 1975–1998 miejscowość administracyjnie należała do województwa poznańskiego .

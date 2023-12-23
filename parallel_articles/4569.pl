@@ -1,0 +1,1 @@
+Gołańcz ( ujednoznacznienie )

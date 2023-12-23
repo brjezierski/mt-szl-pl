@@ -1,0 +1,1 @@
+Gniewkowo ( województwo warmińsko-mazurskie )

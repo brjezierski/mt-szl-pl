@@ -1,0 +1,1 @@
+Kowel ( województwo lubelskie )

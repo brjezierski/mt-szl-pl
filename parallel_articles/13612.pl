@@ -1,0 +1,1 @@
+Śmiłowice ( województwo opolskie )

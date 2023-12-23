@@ -1,0 +1,17 @@
+Parabola GNU/Linux
+Parabola GNU/Linux – zorta linuksowo uoparto uo Arch Linux , je mogebne uodpalić uůnom na kůmputrach ze architekturůma i686 , x86 64 a tyż , we uodrůżńyńu od Arch Linuksa na mips64 , używo uůna ino swobodnygo uoprogramowańa .
+Kej we Archu Parabola GNU/Linux to dystrybucyjo , kero mo być łatwo we konfiguracyji a we użytkowańu .
+Łatwość ta ńy je uośůngano bez srogo wjelość graficznych konfiguratorůw , a bez dobrze rozmjyszczůne a konstruowane pliki konfiguracyjne , skrypty a programy .
+Parabola GNU/Linux to jedno ze dystrybucyji wymjyńonych uod Free Software Foundation kej fest do porzůndku swobodne dystrybucyje .
+Społeczno umowa projektu Parabola GNU/Linux .
+Uo cwekach projektu Parabola godo dolszo umowa społeczno :
+`` Społeczno umowa projektu Parabola GNU/Linux je wyrozem zaangażowańo we tworzyńe dystrybucyji uoprogramowańo cuzamen ze społecznośćům swobodnygo uoprogramowańo a uůnyj używoczami we szczygůlnośći .
+Beztuż , naszo społeczno umowa durś bydźe lazła za filozofijům swobodnyj wjedzy .
+Wszyjske sprowyjyńa do tyj społecznyj umowy muszům być zgodne ze duchym Ruchu Swobodnygo Uoprogramowańo .
+Růżńice we sztosunku do Arch Linux .
+Parabola użiwo ino blank swobodnygo uoprogramowańo ze uoficjalnych repozytoryjůw Archa lo architektur i686 a x86_64 .
+Krům tygo lo ńy blank swobodnych paketów , tam kaj to możebne użiwo własnych zamjenńikůw , lo bajszpila kernel Linux-libre mjast standardowygo kernela Linux .
+We proceśe filtrowańo uostoło śymńyntych ůngyfer 400 paketůw ze repozytoryjůw Archa kere ńy poradzům wymagańům FSF dotyczůncych swobodnygo uoprogramowańo .
+Uod anfanga roku 2011 hakery Paraboli dali anfang wywijańu wersyji tyj dystrybucyji lo kůmputrůw , kere użiwajům rozwijanygo we Chinach procesora Loongson .
+Insztalacyjo .
+Sům dwa kńify nainsztalowańo Paraboli : systym tyn możebne je nainsztalować ze uobrozůw ISO abo eli systym Arch Linux je już nainsztalowůny , je mogebne przemigrować do Paraboli bez půmjana repozytoryjůw Archa na repozytoryjo Paraboli , uoroz insztalujůnc paket your-freedom , kery konfliktuje ze kożdym znůmym ńyswobodnym paketem , kery ńy mo swojygo uodpowiedńika we repozytoryjach Paraboli .

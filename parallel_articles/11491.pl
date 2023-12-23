@@ -1,0 +1,6 @@
+Układ Słoneczny
+Układ Słoneczny – układ planetarny w Drodze Mlecznej , składający się ze Słońca i powiązanych z nim grawitacyjnie ciał niebieskich : ośmiu planet , co najmniej 205 ich księżyców , pięciu planet karłowatych i miliardów ( a być może nawet bilionów ) małych ciał , do których zalicza się planetoidy , komety i meteoroidy , a także pył międzyplanetarny .
+Zbadane regiony Układu Słonecznego zawierają , licząc od Słońca : cztery planety skaliste ( Merkury , Wenus , Ziemia , Mars ) , pas planetoid składający się z małych skalistych ciał , cztery zewnętrzne gazowe olbrzymy ( Jowisz , Saturn , Uran , Neptun ) oraz drugi pas składający się z obiektów skalno-lodowych , tak zwany Pas Kuipera .
+Za Pasem Kuipera znajduje się dysk rozproszony , dużo dalej heliopauza i w końcu hipotetyczny Obłok Oorta .
+Pięć obiektów zaliczonych do klasy planet karłowatych to : Ceres ( największy obiekt w pasie planetoid ) , Pluton ( do 24 sierpnia 2006 roku uznawany za 9. planetę Układu ) , Haumea , Makemake ( drugi co do wielkości obiekt w Pasie Kuipera ) i Eris ( największy znany obiekt w dysku rozproszonym ) .
+Sześć z ośmiu planet i cztery z planet karłowatych mają naturalne satelity , zwane księżycami .

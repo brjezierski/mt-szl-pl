@@ -1,0 +1,1 @@
+Laskowice ( powiat nyski )

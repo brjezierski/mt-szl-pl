@@ -1,0 +1,1 @@
+Opatowiec ( województwo świętokrzyskie )

@@ -1,0 +1,1 @@
+Tajwan ( województwo kujawsko-pomorskie )

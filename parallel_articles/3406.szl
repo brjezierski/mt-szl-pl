@@ -1,0 +1,6 @@
+Docker
+Docker - swobodne uoprůgramowańy używane do izolacyje programůw we sztrukturach mjanowanych `` kůntynerůma '' a admińistrowańy ńimi .
+Izolacyjo je zapewńůno bez wirtualizacyjo na szteli uoperacyjnyj systymy , co uoznaczo , że skłodo śe na ńa uoprůgramowańy , bibljůtyki a konfiguracyjne pliki .
+Beztuż co wszyjske te sztruktury używajům tego samego kernela uoperacyjnyj systymy , jich wirtualizacyjo je lekszo ( bjere mańi zasobůw ) jak połno wirtualizacyjo .
+Docker mo poczůntki swobodnego fůngowańo we marcu 2013 .
+Fůnguje na Linukśe , Windowśe , MacOŚe a inkszych systymach .

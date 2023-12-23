@@ -1,0 +1,76 @@
+LibreOffice
+LibreOffice ( LO ) – wieloplatformowy paket biōrowego ôprogramowaniŏ ze ôtwartym kodym zdrzōdłowym .
+Je rozkludzane na licyncyji MPL .
+Ôstoł ôn stworzōny na bazie kodu zdrzōdłowego paketu OpenOffice.org za ôdpowiydź na brak niyzależnego ôd podmiotōw kōmercyjnych paketu biōrowego , co by spiyroł format zbiorōw ODF , ale kōmpatybilnego z inkszymi popularnymi formatami zŏpisu dokumyntōw .
+Miano to je hybryda słōw `` libre '' ( fr .
+i hiszp .
+`` swobodny '' , ôd swobody ) i `` office '' ( ang .
+`` biōro '' ) .
+Cechy paketu .
+Spiyrane formaty dokumyntōw .
+Bazowym formatym dokumyntōw w LibreOffice je OpenDocument Format for Office Applications ( w skrōcie OpenDocument ) , ôtwarty standard ISO , co ôpisuje format zbiorōw paketōw biōrowych .
+Wychodnie LibreOffice używŏ standardu we wersyji 1.2 dopołniōnego ô włŏsne rozszyrzynia , co majōm za cyl poprawiynie zgodliwości z formatym Office Open XML ( co go używŏ paket Microsoft Office ) .
+Wykŏz rozszyrzyń je publicznie dostympny , a z wiynksza ône był zgłoszōne do OASIS ku cylu zarachowaniŏ w prziszłych wersyjach standardu OpenDocument .
+Używŏcze mogōm zmiynić wersyjõ sztandardu używanõ do tworzyniŏ nowych zbiorōw we sztelōnkach programu .
+Wychodnie LibreOffice używŏ takich rozszyrzyń mian zbiorōw :
+Ôkrōm tego paket spiyrŏ ôdczyt i zŏpis dokumyntōw we formatach : DOC , XLS , PPT , RTF ( Microsoft Office 97-2003 ) , DOCX , XLSX , PPTX ( Microsoft Office 2007 i nowsze ) , HTML , CSV i TXT ; jyno ôdczyt dokumyntōw w formatach CWK ( AppleWorks 6.0 ) , DXF ( AutoCAD ) , MW/MW ( MacWrite Pro 1.5 ) , SZYNK ( Microsoft Publisher 98 – 2010 ) , WN ( Write Now 4.0 ) jak tyż inkszych .
+LibreOffice ôbsuguje grafiki we formatach BMP , CDR ( Corel Draw ) , EMF , GIF , JPG , PNG , PSD ( Adobe Photoshop ) , SVG , VDX , VSD ( Microsoft Visio ) jak tyż WMF .
+Wszyjske dokumynta idzie wyeksportować do formatu PDF .
+We wersyji 4.0 paketu doimyntnie wychrōniōno było sparcie zbiorōw binarnych utworzōnych ôd StarOffice , historycznego praôjca LibreOffice .
+Historyjŏ .
+Kōntekst .
+W styczniu 2010 Oracle zakōńczyło proces przejyńciŏ Sun .
+Bez to , że Oracle niy miało takij bogatyj historyje spiyraniŏ ôprogramowaniŏ ze ôtwartym kodym zdrzōdłowym jak Sun , niykerzi kōmyntatorzi bŏli sie ô dalszy los programōw tyj zorty rozwijanych wcześnij ôd Sun ( nojbarzij MySQL , Java jak tyż systym ôperacyjny Solaris , ale tyż OpenOffice.org abo VirtualBox ) .
+13 siyrpnia 2010 przedstawiciele Oracle powiadōmiyli Radã Zarzōndzaniŏ OpenSolaris , niyzależne ciało , co reprezyntuje sympatykōw Open Solaris , ôtwartozdrzōdłowyj wersyje Solaris , ô kōńcu spōłprace .
+23 siyrpnia czōnkowie Rady postanowiyli ô jeji rozwiōnzaniu .
+Powołanie The Document Foundation i piyrsze wersyje paketu .
+Tajla czōnkōw społeczności OpenOffice.org z tamtego czasu , pewnikym ôd ôbŏwy , iże podobnie może sie stać ze paketym biōrowym , zdecydowała sie założyć The Document Foundation .
+Podstawowy cyl fundacyje to było „ przekształcynie społeczności w nowõ , ôtwartõ , niyzależnõ i merytokratycznie reskyrowanõ ôrganizacyjõ ” .
+The Document Foundation zadeklarowało chyńć koordynowaniŏ prac czōnkōw społeczności skupionych na rozwijaniu kodu zdrzōdłowego paketu , jego testowaniu , przekładzie , prōmowaniu , jak tyż świadczyniu pōmocy w jego używaniu .
+Przedstawiciele fundacyje zaprosiyli Oracle do ôstaniŏ czōnkym fundacyje i darowaniŏ marki OpenOffice.org na jeji rzecz .
+W czasie czekaniŏ na ôdpowiydź Oracle , wersyjõ paketu OpenOffice.org rozwijanõ ôd fundacyje , uzdano sie tymczasowo rozkludzać pod markōm LibreOffice .
+Krōtko po ôgłoszyniu powstaniŏ fundacyje , fyrma Novell pociepła Go-oo , włŏsny fork OpenOffice.org , na rzecz LibreOffice .
+Wszyjske poprŏwki , co sie skłŏdały na Go-oo , ôstały stopniowo wkludzōne do kodu zdrzōdłowego LibreOffice .
+25 stycznia 2011 ôgłoszōno było ôpublikowanie piyrszyj sztabilnyj wersyje paketu , ôznaczōnyj numerym 3.3 ( takim samym jak OpenOffice.org , co jego kod zdrzōdłowy bōł spotrzebowany za podstawã wydaniŏ ) .
+W piyrszyj połowie 2011 roku LibreOffice ôstoł wkludzōny do repozytoriōw wielu popularnych dystrybucyji Linux ( m.in .
+Ubuntu , Arch Linux , OpenSUSE , Fedora abo Debian ) , czynsto przi zastympowaniu przi tym OpenOffice.org .
+Oracle pociepuje OpenOffice.org , The Document Foundation ôstŏwŏ przi LibreOffice .
+15 kwietnia 2011 Oracle ustoło świadczyniŏ usug kōmercyjnych dlŏ OpenOffice.org jak tyż zapowiedziało plan ôddaniŏ paketu pod kōntrolã społeczności .
+Półtora miesiōnca niyskorzij , 1 czyrwca , było ôgłoszōno przekŏzanie marki OpenOffice.org jak tyż praw autōrskich do kodu zdrzōdłowego fundacyje Apache Software Foundation .
+W tyn sōm dziyń przedstawiciele The Document Foundation pedzieli , iże fundacyjŏ durch bydzie rozwijać LibreOffice podle wcześnij nasztalowanego harmōnogramu .
+Wyraziyli przi tym nadziejã na bliższõ spōłpracã miyndzy dwiyma fundacyjami , co robiyły przi kodzie zdrzōdłowym OpenOffice.org .
+Raja wydŏwniczŏ i spusōb numeracyje wersyji .
+Raja wydŏwniczŏ LibreOffice je ôpartŏ na czasie .
+Ôznaczŏ to , iże nowŏ wersyjŏ może ôstać ôpublikowanŏ nawet wtynczŏs , jak zawiyrŏ znōme felery .
+Ôkrōm ekstra sytuacyji , nowe funkcyje sōm dostympne jyny w nowych linijach paketu .
+Te za to sōm wydŏwane dwa razy na rok , w lutym jak tyż w lipcu .
+Linijo je idyntyfikowanŏ bez piyrsze dwie cyfry w numerze wersyje , bp .
+4.3 abo 5.1 .
+Kożdŏ linijŏ dostŏwŏ kole sześciu wydań poprŏwkowych , co niy wkludzajōm nowych funkcyji , ale wychrōniajōm znojdziōne felery .
+Wydaniŏ poprŏwkowe sōm publikowane kożdy miesiōnc do mōmyntu ôsiōngniyńciŏ ôd danyj linije sztabilności , a niyskorzij co dwa miesiōnce .
+Kryteria „ sztabilności ” niy sōm blank ôkryślōne , ale porzōnd uznŏwŏ sie , iże linijŏ je sztabilnŏ ôd trzecigo abo sztwŏrtego wydaniŏ poprŏwkowego .
+Wydania poprŏwkowe sōm idyntyfikowane ze pōmocōm ôstatnij ( trzecij ) cyfry w numerze wersyje .
+Bp .
+4.3.6 ôznaczŏ szōste wydanie poprŏwkowe linije 4.3 , a 5.1.4 ôznaczŏ sztwŏrte wydanie poprŏwkowe linije 5.1 .
+W leda jakim mōmyńcie na strōnie internetowyj paketu dostympne sōm do pobraniŏ dwie roztōmajte wersyje :
+Liczba używŏczōw i masowe wkludzynia .
+Skirz tego , że LibreOffice je swobodne ôprogramowanie , może być rozkludzane bez żŏdnych ôgraniczyń .
+Skuli tego akuratnŏ liczba używŏczōw paketu niyma znanŏ .
+17 paździyrnika 2012 Florian Effenberger , prezes zarzōndu The Document Foundation , pedzioł , iże – podle rachowań fundacyje – paket LibreOffice je używany ôd hned 60 milijōnōw używŏczōw .
+Krytycy dŏwajōm pozōr , iże te rachowania sōm ôparte na felernyj metodologiji – zarachowujōm nojbarzij wielość pobrań zbioru instalacyjnego , co kludzi do zawyżyniŏ prŏwdziwyj liczby używŏczōw ( zarachowowani sōm ludzie , co zainstalowali paket wielokrotnie , jak tyż ci , co pobrali go jyny po to , coby wybadać jego możliwości ) .
+Na tã krytykã przedstawiciele The Document Foundation ôdpadajōm , iże rachowania na isto sōm zaniżone , bo pōmijŏ sie w nich inksze kanały dystrybucyje , take jak platy CD z programym abo repozytoria dystrybucyje Linux .
+Już pŏrã miesiyncy po ôpublikowaniu piyrszyj wersyje , LibreOffice zaczōn być wkludzany w wielu strzodowiskach , co ôbjymujōm srogõ liczbã sztandōw kōmputrowych , ôsobliwie we instytucyjach użyteczności publicznyj .
+Do nojważniyjszych wkludzyń nŏleżōm ( w porzōndku chrōnologicznym ) :
+Przenośne wersyje LibreOffice .
+Paket LibreOffice je tyż dostympny w wersyjach przenośnych .
+Wersyjŏ mobilnŏ posiadŏ take same możebności jak ajnfachowŏ , ale niy wymŏgŏ instalowaniŏ na kōmputrze .
+Przinŏleży jyno jōm ôzpakować na maszinie przenośnyj ( bp .
+pendrive abo karcie pamiyńci ) i z niego sztartować .
+Wszyjske sztelōnki używŏcza tyż ôstŏwajōm zapisowane na maszinie przenośnyj .
+Ôficjalne przenośne wersyje paketōw LibreOffice sōm tworzōne ôd PortableApps.com we spōłpracy z The Document Foundation .
+Sōm dostympne tyż wersyje przenośne tworzōne ôd niyzależnych serwisōw , m.in .
+LiberKey jak tyż winPenPack .
+LibreOffice i smartfōny .
+The Document Foundation ôferuje tyż aplikacyjõ LibreOffice Viewer dlŏ systymu Android .
+Idzie jōm pobrać tyż niyzależnie ( bp .
+ze strōny projektu ) i zainstalować bez używaniŏ ôficjalnego sklepu Google Play .

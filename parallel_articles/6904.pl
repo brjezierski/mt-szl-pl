@@ -1,0 +1,1 @@
+Ligota ( województwo opolskie )

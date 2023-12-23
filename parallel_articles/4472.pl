@@ -1,0 +1,1 @@
+Gmina Szydłowo ( powiat pilski )

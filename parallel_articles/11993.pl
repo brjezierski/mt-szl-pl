@@ -1,0 +1,1 @@
+Tułowice ( województwo opolskie )

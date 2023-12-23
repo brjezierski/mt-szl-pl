@@ -1,0 +1,1 @@
+Brzezina ( gmina Słupia Konecka )

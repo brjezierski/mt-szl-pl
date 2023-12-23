@@ -1,0 +1,1 @@
+Kobyłka ( ujednoznacznienie )

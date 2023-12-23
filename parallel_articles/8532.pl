@@ -1,0 +1,1 @@
+Europa ( rejon wileński )

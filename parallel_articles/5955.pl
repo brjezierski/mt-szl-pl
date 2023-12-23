@@ -1,0 +1,2 @@
+Kigali ( ujednoznacznienie )
+Dawne prefektury :

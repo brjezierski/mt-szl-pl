@@ -1,0 +1,1 @@
+Kolonia ( gmina Krzeszowice )

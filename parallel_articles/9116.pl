@@ -1,0 +1,1 @@
+Poczapy ( rejon złoczowski )

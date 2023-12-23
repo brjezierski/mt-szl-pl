@@ -1,0 +1,8 @@
+Gazomia Stara ( gromada )
+Gazomia Stara – dawna gromada , czyli najmniejsza jednostka podziału terytorialnego Polskiej Rzeczypospolitej Ludowej w latach 1954–1972 .
+Gromady , z gromadzkimi radami narodowymi ( GRN ) jako organami władzy najniższego stopnia na wsi , funkcjonowały od reformy reorganizującej administrację wiejską przeprowadzonej jesienią 1954 do momentu ich zniesienia z dniem 1 stycznia 1973 , tym samym wypierając organizację gminną w latach 1954–1972 .
+Gromadę Gazomia Stara siedzibą GRN w Gazomii Starej ( `` Stara Gazomia '' ) utworzono – jako jedną z 8759 gromad na obszarze Polski – w powiecie piotrkowskim w woj .
+łódzkim , na mocy uchwały nr 35/54 WRN w Łodzi z dnia 4 października 1954 .
+W skład jednostki weszły obszary dotychczasowych gromad Białkowice , Gazomia Stara , Gazomia Nowa i Psary ze zniesionej gminy Wolbórz w tymże powiecie .
+Dla gromady ustalono 18 członków gromadzkiej rady narodowej .
+1 lipca 1968 gromadę zniesiono , a jej obszar włączono do gromad : Wolbórz ( wieś Psary Lechawa , wieś Psary Witeskie oraz wieś Stare Psary ) i Moszczenica ( wieś Białkowice , wieś Stara Gazomia , wieś Nowa Gazomia oraz wieś Gazomka ) w tymże powiecie .

@@ -1,0 +1,1 @@
+Asheville ( Karolina Północna )

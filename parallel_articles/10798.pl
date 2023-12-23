@@ -1,0 +1,1 @@
+Smolnica ( powiat hajnowski )

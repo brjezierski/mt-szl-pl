@@ -1,0 +1,1 @@
+Kościelec ( województwo pomorskie )

@@ -1,0 +1,1 @@
+Sokołów Małopolski ( gromada )

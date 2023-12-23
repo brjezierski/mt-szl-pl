@@ -1,0 +1,1 @@
+Gmina Białobrzegi ( powiat łańcucki )

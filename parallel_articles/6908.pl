@@ -1,0 +1,1 @@
+Ligota Górna ( Śląsk Cieszyński )

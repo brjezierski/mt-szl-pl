@@ -1,0 +1,1 @@
+Małogoszcz ( ujednoznacznienie )

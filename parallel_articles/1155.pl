@@ -1,0 +1,4 @@
+Amherst ( Kanada )
+Amherst ( do 1761 `` Les Planches '' ) – miasto ( `` town '' ) w kanadyjskiej prowincji Nowa Szkocja , ośrodek hrabstwa Cumberland , podjednostka podziału statystycznego ( `` census subdivision '' ) .
+Według spisu powszechnego z 2016 obszar miasta to : 12,07 km² , a zamieszkiwało wówczas ten obszar 9413 osób , natomiast cały obszar miejski ( `` population centre '' ) zamieszkiwało 9550 osób .
+Miejscowość , pierwotnie zasiedlona przez ludność francuskojęzyczną ( Akadyjczycy ) nosiła miano `` Les Planches '' , dopiero po ich deportacji i zasiedleniu tego terenu w 1761 przez angielskojęzycznych przybyszów z Nowej Anglii ( a później także , w latach 1772–1775 , z Yorkshire ) otrzymała nazwę na cześć ówczesnego dowódcy wojsk brytyjskich w wojnie z Francją w Ameryce Północnej Jeffery ’ ego , barona Amherst , a w 1889 otrzymała status miasta ( `` town '' ) .

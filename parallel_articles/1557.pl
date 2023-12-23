@@ -1,0 +1,3 @@
+Ballenstedt ( ujednoznacznienie )
+Niemcy :
+Osoby :

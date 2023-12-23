@@ -1,0 +1,1 @@
+Kościelisko ( wieś )

@@ -1,0 +1,1 @@
+Równe ( rejon drohobycki )

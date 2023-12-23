@@ -1,0 +1,1 @@
+Kaplica ( województwo świętokrzyskie )

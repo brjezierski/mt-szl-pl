@@ -1,0 +1,1 @@
+Krasów ( powiat Jesenik )

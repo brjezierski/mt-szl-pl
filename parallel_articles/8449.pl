@@ -1,0 +1,1 @@
+Nowy Wiśnicz ( gromada )

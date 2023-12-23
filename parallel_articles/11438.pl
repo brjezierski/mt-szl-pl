@@ -1,0 +1,1 @@
+Średnica ( województwo świętokrzyskie )

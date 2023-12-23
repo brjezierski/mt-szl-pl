@@ -1,0 +1,1 @@
+Brynica ( powiat oleski )

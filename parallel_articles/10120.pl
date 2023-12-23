@@ -1,0 +1,1 @@
+Rybnik ( województwo pomorskie )

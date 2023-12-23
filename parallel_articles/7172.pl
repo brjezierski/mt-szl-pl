@@ -1,0 +1,1 @@
+Ląd ( województwo wielkopolskie )

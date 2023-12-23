@@ -1,0 +1,1 @@
+Łubniki ( województwo zachodniopomorskie )

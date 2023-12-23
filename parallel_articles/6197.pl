@@ -1,0 +1,1 @@
+Kowalewko ( powiat gnieźnieński )

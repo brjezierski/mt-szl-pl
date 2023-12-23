@@ -1,0 +1,1 @@
+Koło ( województwo wielkopolskie )

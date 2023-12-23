@@ -1,0 +1,1 @@
+Palestyna ( województwo warmińsko-mazurskie )

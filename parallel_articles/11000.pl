@@ -1,0 +1,1 @@
+Stara Wieś ( województwo opolskie )

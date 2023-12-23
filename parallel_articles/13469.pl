@@ -1,0 +1,1 @@
+Łysiec ( obwód chmielnicki )

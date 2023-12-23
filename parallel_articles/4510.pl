@@ -1,0 +1,1 @@
+Golczowice ( powiat prudnicki )

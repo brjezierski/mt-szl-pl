@@ -1,0 +1,1 @@
+Osiny ( gmina Mykanów )

@@ -1,0 +1,1 @@
+Biała Rawska ( gromada )

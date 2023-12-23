@@ -1,0 +1,1 @@
+Stadniki ( województwo warmińsko-mazurskie )

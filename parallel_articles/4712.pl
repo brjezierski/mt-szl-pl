@@ -1,0 +1,1 @@
+Guadalajara ( miasto w Meksyku )

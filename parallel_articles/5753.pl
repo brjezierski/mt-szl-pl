@@ -1,0 +1,1 @@
+Wielbłąd ( ujednoznacznienie )

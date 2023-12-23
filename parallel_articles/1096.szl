@@ -1,0 +1,12 @@
+Algorytm Dijkstry
+Algorytm uod Dijkstry - algorytm zbajstlowany bez ńiderlandzkego informatikera Edsgera Dijkstre do znojdowańo nojkrůtszyj drogi we grafje ze jednego knota do reszty knotůw .
+Algorytm ńy dźało kej ftoroś kanta mo ujymny wert dugości .
+We praktyce do śe uůnygo sztosować ntp .
+do sznupańo nojkrůtszyj drogi do danych punktůw uod karty .
+Wuůnczas zdefińować trza krziżowańa drogůw kej knoty , a same drogi i jich dugośći kej kanty co utworzi graf .
+Fůngowańe .
+Nojsamprzůd dany momy graf a wybrany jedyn jigo knot , ze kerygo bydymy sztartować .
+Algorytm śe kůńczy kej uostańe ino jedyn ńyskrelůny knot .
+Naszkryflano lista dowo nojkrůtsze drogi dojśćo ze knota sztartowygo do reszty knotůw we grafje .
+Kod algorytmu .
+Podany sam bajszpil we C++ realizuje Algorytm Dijkstry lo grafu kaj kanty to drogi , kere do śe przelyź we uobu kerunkach .

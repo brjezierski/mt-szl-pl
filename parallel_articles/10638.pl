@@ -1,0 +1,1 @@
+Seyðisfjörður ( ujednoznacznienie )

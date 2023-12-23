@@ -1,0 +1,1 @@
+Paryż ( województwo podlaskie )

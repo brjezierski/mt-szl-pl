@@ -1,0 +1,1 @@
+Ryczywół ( gmina Pawłów )

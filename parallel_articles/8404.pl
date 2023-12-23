@@ -1,0 +1,1 @@
+Nowa Brzeźnica ( gromada )

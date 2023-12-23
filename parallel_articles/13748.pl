@@ -1,0 +1,1 @@
+Żerkowice ( województwo opolskie )

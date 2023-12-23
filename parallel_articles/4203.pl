@@ -1,0 +1,1 @@
+Frydek-Mistek ( stacja kolejowa )

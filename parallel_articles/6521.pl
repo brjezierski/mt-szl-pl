@@ -1,0 +1,1 @@
+Konarzewo ( powiat goleniowski )

@@ -1,0 +1,1 @@
+Marianów ( gmina Wodzisław )

@@ -1,0 +1,1 @@
+Sowina ( województwo dolnośląskie )

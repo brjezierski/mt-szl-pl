@@ -1,0 +1,1 @@
+Telewizor ( ujednoznacznienie )

@@ -1,0 +1,1 @@
+Józefowo ( rejon miński )

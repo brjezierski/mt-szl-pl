@@ -1,0 +1,1 @@
+Kochany ( ujednoznacznienie )

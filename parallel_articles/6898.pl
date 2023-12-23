@@ -1,0 +1,2 @@
+Liestal ( ujednoznacznienie )
+Szwajcaria :

@@ -1,0 +1,1 @@
+Stryj ( województwo lubelskie )

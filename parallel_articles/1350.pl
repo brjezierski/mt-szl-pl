@@ -1,0 +1,3 @@
+Aschaffenburg ( ujednoznacznienie )
+Niemcy :
+Osoby :

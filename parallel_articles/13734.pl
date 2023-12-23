@@ -1,0 +1,1 @@
+Żurawica ( gmina Obrazów )

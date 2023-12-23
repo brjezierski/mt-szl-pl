@@ -1,0 +1,1 @@
+Adamówka ( rejon kamieniecki )

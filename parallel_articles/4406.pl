@@ -1,0 +1,1 @@
+Gitarzysta ( obraz )

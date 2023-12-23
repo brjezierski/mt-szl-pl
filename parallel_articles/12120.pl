@@ -1,0 +1,1 @@
+Dehumanizacja ( mechanizm obronny )

@@ -1,0 +1,1 @@
+Wadowice ( ujednoznacznienie )

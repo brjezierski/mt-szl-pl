@@ -1,0 +1,1 @@
+Stróża ( powiat pajęczański )

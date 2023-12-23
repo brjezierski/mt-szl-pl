@@ -1,0 +1,1 @@
+Samborzec ( ujednoznacznienie )

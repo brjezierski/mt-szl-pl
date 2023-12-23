@@ -1,0 +1,1 @@
+Kazimierz ( powiat łaski )

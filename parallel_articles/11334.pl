@@ -1,0 +1,2 @@
+Szczepanek
+Miejscowości w Polsce :

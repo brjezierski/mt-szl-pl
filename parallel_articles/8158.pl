@@ -1,0 +1,1 @@
+Napastnik ( piłka nożna )

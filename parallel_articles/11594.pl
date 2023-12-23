@@ -1,0 +1,1 @@
+Bukowina Tatrzańska ( gromada )

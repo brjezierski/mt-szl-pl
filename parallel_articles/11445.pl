@@ -1,0 +1,1 @@
+Szonów ( przystanek kolejowy )

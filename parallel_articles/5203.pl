@@ -1,0 +1,12 @@
+Hydrokraking
+Hydrokraking ( hydrokrakowanie ) – proces krakingu prowadzony z udziałem wodoru w celu zmniejszenia masy cząsteczkowej składników surowca oraz zmiany proporcji w jakich te składniki występują .
+Pierwszy komercyjny proces hydrokrakingu został wdrożony przez I.G .
+Farben Industrie w 1927 roku w celu wytwarzania benzyny z węgla brunatnego , natomiast pierwszy nowoczesny węzeł hydrokrakingu destylacyjnego w przemyśle rafineryjnym zastosowano w koncernie Chevron w roku 1958 .
+Obecnie przeprowadza się go w temperaturze 250–450 °C ( 290–400 °C ) pod ciśnieniem wodoru 7–15 MPa ( 6,9–13,8 MPa , 5–30 MPa ) .
+W charakterze katalizatorów stosuje się kobalt , molibden , nikiel i wolfram oraz platynę i pallad wbudowane w struktury krystaliczne tlenku glinu i krzemionki .
+W wyniku hydrokrakingu z wysokowrzących frakcji olejowych otrzymanych poprzez destylację frakcyjną ropy naftowej oraz pozostałości destylacyjnych , takich jak gudron , otrzymuje się gaz płynny , benzynę hydrokrakingową i frakcje olejowe .
+Jest to proces bardzo elastyczny – poprzez odpowiedni dobór parametrów można go ukierunkować na produkcję gazu płynnego , benzyn silnikowych , paliw odrzutowych , oleju napędowego lub olejów smarowych wykorzystując w charakterze surowców destylaty atmosferyczne i próżniowe z destylacji rurowo-wieżowej ( DRW ) , destylaty z koksowania , recyrkulaty z procesu krakingu katalitycznego oraz oleje pirolityczne .
+Koszt budowy instalacji hydrokrakingu jest bardzo wysoki , gdyż operowanie wodorem w warunkach tego procesu wymaga zastosowania bardzo drogich materiałów , jednak jego zastosowanie w procesach przetwórstwa ropy naftowej zostało wymuszone przez zmiany rynkowe obejmujące jednoczesne zmniejszenie się zapotrzebowania na olej opałowy i paliwo dla starego typu silników diesla przy jednocześnie rosnącym zapotrzebowaniu na benzyny silnikowe oraz paliwo lotnicze .
+Zaletą stosowania hydrokrakingu jest otrzymywanie stabilnych ( pozbawionych związków nienasyconych ) produktów o bardzo niskiej zawartości siarki i azotu bez stosowania procesu hydrorafinacji .
+Bardzo efektywnym wariantem wykorzystania hydrokrakingu w rafinerii jest współpraca z procesem krakingu katalitycznego .
+Dołączenie do surowców procesu hydrokrakingu olejów cyrkulacyjnych z instalacji krakingu katalitycznego pozwala na ich dearomatyzację i w ogólnym bilansie znaczny wzrost wydajności paliw silnikowych .

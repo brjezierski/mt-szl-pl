@@ -1,0 +1,1 @@
+Gmina Konopnica ( powiat wieluński )

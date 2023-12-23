@@ -1,0 +1,1 @@
+Wacławów ( powiat koniński )

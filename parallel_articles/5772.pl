@@ -1,0 +1,1 @@
+Kamienna ( obwód iwanofrankiwski )

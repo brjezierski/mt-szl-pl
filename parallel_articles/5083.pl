@@ -1,0 +1,1 @@
+Hiryū ( lotniskowiec )

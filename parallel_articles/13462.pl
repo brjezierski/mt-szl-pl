@@ -1,0 +1,1 @@
+Łysa Góra ( Beskid Wyspowy )

@@ -1,0 +1,1 @@
+Bronisław Komorowski ( ksiądz )

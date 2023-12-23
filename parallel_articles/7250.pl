@@ -1,0 +1,1 @@
+Malbork ( powiat kartuski )

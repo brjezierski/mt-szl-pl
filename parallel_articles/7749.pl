@@ -1,0 +1,4 @@
+Miasto-ratownik
+Miasto-ratownik ( ukr .
+Місто-рятівник ) – ukraiński tytuł honorowy , ustanowiony w drodze dekretu z dnia 22 maja 2022 r. przez prezydenta Ukrainy Wołodymyra Zełenskiego , dla upamiętnienia aktów człowieczeństwa , miłosierdzia i solidarności z narodem ukraińskim , okazanych przez mieszkańców zagranicznych miast w obronie ideałów wolności , pokoju i demokracji , a także za wspieranie Ukrainy w obronie jej niepodległości i suwerenności w czasie odpierania zbrojnej agresji Federacji Rosyjskiej .
+Tytuł nadaje się zagranicznym miastom , których mieszkańcy licznie zapewniają opiekę humanitarną oraz inne rodzaje pomocy obywatelom Ukrainy , którzy zmuszeni byli opuścić kraj pochodzenia w związku z inwazją Federacji Rosyjskiej , a także zapewniają innego rodzaju ważną pomoc dla Ukrainy w obronie jej niepodległości i suwerenności .

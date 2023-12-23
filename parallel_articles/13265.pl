@@ -1,0 +1,1 @@
+Zakrzów ( powiat ząbkowicki )

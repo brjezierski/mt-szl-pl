@@ -1,0 +1,1 @@
+Skała ( województwo opolskie )

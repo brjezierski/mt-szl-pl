@@ -1,0 +1,1 @@
+Gdańsk ( statek )

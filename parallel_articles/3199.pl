@@ -1,0 +1,1 @@
+Czarna śmierć ( ujednoznacznienie )

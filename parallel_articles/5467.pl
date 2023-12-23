@@ -1,0 +1,1 @@
+Janówka ( obwód iwanofrankiwski )

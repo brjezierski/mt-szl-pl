@@ -1,0 +1,1 @@
+Kornatka ( województwo zachodniopomorskie )

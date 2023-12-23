@@ -1,0 +1,1 @@
+Niutonometr ( przyrząd pomiarowy )

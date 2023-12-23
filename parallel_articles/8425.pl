@@ -1,0 +1,1 @@
+Nowosielce ( powiat trzebnicki )

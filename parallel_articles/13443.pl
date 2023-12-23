@@ -1,0 +1,1 @@
+Łukowice ( województwo małopolskie )

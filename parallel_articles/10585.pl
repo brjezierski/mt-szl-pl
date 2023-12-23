@@ -1,0 +1,1 @@
+Sekunda ( kąt )

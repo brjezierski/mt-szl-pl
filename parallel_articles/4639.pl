@@ -1,0 +1,1 @@
+Greensboro ( Karolina Północna )

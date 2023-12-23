@@ -1,0 +1,1 @@
+Laskowo ( powiat mogileński )

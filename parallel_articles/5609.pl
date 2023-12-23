@@ -1,0 +1,1 @@
+Joinville ( miasto w Brazylii )

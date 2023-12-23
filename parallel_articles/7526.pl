@@ -1,0 +1,1 @@
+Franczyza ( przemysł rozrywkowy )

@@ -1,0 +1,2 @@
+Zvole
+Gminy w Czechach :

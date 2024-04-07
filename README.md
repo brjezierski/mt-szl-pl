@@ -29,3 +29,16 @@ Lexicon Induced from Comparable Corpora](https://arxiv.org/pdf/1806.09652.pdf) -
   ```
   ./hunalign/src/hunalign/hunalign -realign -ppthresh=30 -headerthresh=100 -topothresh=30 szl-pl.dict -batch batch_job
   ```
+- [Training Opus MT for low resource](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/tutorials/low-resource.md)
+- [corpus](https://osf.io/ypw4v/wiki/home/)
+- [website](https://sdbroker.eu/szl)
+- [firma od tłumaczeń](https://ponaszymu.pl/zobacz-realizacje)
+
+# Models
+- [Multilingual Slavic model](https://huggingface.co/Helsinki-NLP/opus-mt-sla-sla)
+- [Facebook multlingual](https://huggingface.co/facebook/m2m100_418M)
+
+# Challenges
+- no unified orthography in use
+- lack of bilingual corpus 
+- translations are not exactly 1-to-1
